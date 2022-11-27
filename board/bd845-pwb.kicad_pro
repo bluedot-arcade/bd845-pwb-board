@@ -453,7 +453,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/flood/Desktop/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "spice_save_all_currents": false,
@@ -467,12 +467,36 @@
       ""
     ],
     [
-      "6655da12-b4ca-4d00-954b-7d204b58a4a9",
+      "b87f26e1-1b9c-4de9-9564-59105313047d",
+      "Power"
+    ],
+    [
+      "1c1d22e9-ff5a-4d59-8d81-13b47946e5d6",
       "MCU"
     ],
     [
-      "b87f26e1-1b9c-4de9-9564-59105313047d",
-      "Power"
+      "1310dd01-db41-4a27-80b2-7733c2587cdb",
+      "Comm Channel"
+    ],
+    [
+      "ee25ad23-16ad-410b-9d51-44517f0b44fd",
+      "Pad Channel 1"
+    ],
+    [
+      "015ef0e1-80e9-4654-9c4e-55b9441615f7",
+      "Pad Channel 2"
+    ],
+    [
+      "37707cb0-7f1b-48ab-92b0-b85156a41fb4",
+      "Pad Channel 3"
+    ],
+    [
+      "b2b651a3-bec8-464c-9fa6-949dcdfcb350",
+      "Pad Channel 4"
+    ],
+    [
+      "79086545-f042-4543-848f-41bdcf514c29",
+      "Pad Channel 5"
     ]
   ],
   "text_variables": {}
