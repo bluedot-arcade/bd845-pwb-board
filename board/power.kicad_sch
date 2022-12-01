@@ -888,7 +888,6 @@
     )
   )
 
-
   (junction (at 74.93 125.73) (diameter 0) (color 0 0 0 0)
     (uuid 01751b5e-932c-4d1c-953c-0f5f4fe3fd68)
   )
@@ -1213,7 +1212,7 @@
     (uuid 6f462899-e29e-4e26-a1d8-ea5e34b69659)
   )
 
-  (wire (pts (xy 96.52 137.16) (xy 96.52 139.7))
+  (wire (pts (xy 96.52 138.43) (xy 96.52 139.7))
     (stroke (width 0) (type default))
     (uuid 6feb1125-62e6-43e3-beb8-79547ca44746)
   )
@@ -1295,7 +1294,7 @@
     (stroke (width 0) (type default))
     (uuid 8f039751-8eae-417a-b03a-102b7b63f2bc)
   )
-  (wire (pts (xy 96.52 120.65) (xy 96.52 132.08))
+  (wire (pts (xy 96.52 120.65) (xy 96.52 133.35))
     (stroke (width 0) (type default))
     (uuid 8f2b222e-9f48-4b62-a74e-14d59f0138ac)
   )
@@ -1868,35 +1867,10 @@
     )
   )
 
-  (symbol (lib_id "Connector:TestPoint_Small") (at 38.1 53.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2d27b287-2fb5-4e75-9c9d-2243f2c60855)
-    (property "Reference" "TP201" (at 38.1 50.8 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "TestPoint_Small" (at 39.37 55.245 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 43.18 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 43.18 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid eeb08ac7-016e-4a96-9bde-c6347eaeb021))
-    (instances
-      (project "bd845-pwb"
-        (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "TP201") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Connector:TestPoint_Small") (at 162.56 58.42 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 328e7674-8d02-43f0-9162-926c5a9a7223)
-    (property "Reference" "TP204" (at 162.56 60.96 0)
+    (property "Reference" "TP203" (at 162.56 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint_Small" (at 163.83 60.325 0)
@@ -1912,7 +1886,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "TP204") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP203") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
@@ -2773,7 +2747,7 @@
   (symbol (lib_id "Connector:TestPoint_Small") (at 72.39 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4721a6d-8f55-4d71-87bb-9488aac1e0ea)
-    (property "Reference" "TP202" (at 72.39 50.8 0)
+    (property "Reference" "TP201" (at 72.39 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint_Small" (at 73.66 55.245 0)
@@ -2789,7 +2763,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "TP202") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP201") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
@@ -2849,7 +2823,7 @@
   (symbol (lib_id "Connector:TestPoint_Small") (at 189.23 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid efbed36b-2452-4aa1-a114-654dc40a16e1)
-    (property "Reference" "TP205" (at 189.23 100.33 0)
+    (property "Reference" "TP204" (at 189.23 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint_Small" (at 190.5 104.775 0)
@@ -2865,7 +2839,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "TP205") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP204") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
@@ -2896,19 +2870,19 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 96.52 134.62 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 96.52 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa94b6e3-5d66-4aee-a518-bcb6614dbcc5)
-    (property "Reference" "C207" (at 99.06 133.35 0)
+    (property "Reference" "C207" (at 99.06 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "6p8" (at 99.06 135.89 0)
+    (property "Value" "6p8" (at 99.06 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 96.52 134.62 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 96.52 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 96.52 134.62 0)
+    (property "Datasheet" "~" (at 96.52 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c51b0a02-47d2-4206-b06a-c6a5c1d75c1f))
@@ -2925,7 +2899,7 @@
   (symbol (lib_id "Connector:TestPoint_Small") (at 72.39 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fbbf7dd6-990b-4cf1-90f1-7b6f1a6e36f1)
-    (property "Reference" "TP203" (at 77.47 68.58 0)
+    (property "Reference" "TP202" (at 77.47 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint_Small" (at 73.66 70.485 0)
@@ -2941,7 +2915,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "TP203") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
+          (reference "TP202") (unit 1) (value "TestPoint_Small") (footprint "TestPoint:TestPoint_Pad_D1.0mm")
         )
       )
     )
