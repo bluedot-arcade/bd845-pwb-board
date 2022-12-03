@@ -2242,7 +2242,7 @@
     (property "Reference" "R209" (at 171.45 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1.9k" (at 171.45 134.62 0)
+    (property "Value" "1k8" (at 171.45 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 168.91 134.62 0)
@@ -2259,7 +2259,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "R209") (unit 1) (value "1.9k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R209") (unit 1) (value "1k8") (footprint "Resistor_SMD:R_0603_1608Metric")
         )
       )
     )
@@ -2271,7 +2271,7 @@
     (property "Reference" "R201" (at 55.88 64.135 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "20k" (at 55.88 66.675 0)
+    (property "Value" "10k" (at 55.88 66.675 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 53.34 64.77 0)
@@ -2285,7 +2285,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "R201") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R201") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
         )
       )
     )
@@ -2403,7 +2403,7 @@
     (property "Reference" "R208" (at 171.45 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100R" (at 171.45 125.73 0)
+    (property "Value" "150R" (at 171.45 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 168.91 125.73 0)
@@ -2420,7 +2420,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "R208") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R208") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
         )
       )
     )
@@ -2508,11 +2508,11 @@
   (symbol (lib_id "Device:R_Small") (at 193.04 69.85 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5acf633-a822-4bbb-99a3-c76babca3583)
-    (property "Reference" "R210" (at 198.12 68.58 0)
-      (effects (font (size 1.27 1.27)))
+    (property "Reference" "R210" (at 195.58 68.58 0)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "1k" (at 196.85 71.12 0)
-      (effects (font (size 1.27 1.27)))
+    (property "Value" "330R" (at 195.58 71.12 0)
+      (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 193.04 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2525,7 +2525,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "R210") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R210") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
         )
       )
     )
