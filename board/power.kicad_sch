@@ -2001,7 +2001,7 @@
     (property "Reference" "R206" (at 107.95 125.7237 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "6k81" (at 107.95 128.2637 0)
+    (property "Value" "6k8" (at 107.95 128.2637 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 105.41 128.27 0)
@@ -2018,7 +2018,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "R206") (unit 1) (value "6k81") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R206") (unit 1) (value "6k8") (footprint "Resistor_SMD:R_0603_1608Metric")
         )
       )
     )
