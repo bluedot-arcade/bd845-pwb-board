@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "BD845-PWB")
+    (title "BD845-PWB SCH")
     (date "2022-11-27")
-    (rev "1")
+    (rev "1.0.0")
     (company "BlueDot, Vincenzo Fortunato")
   )
 

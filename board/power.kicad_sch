@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "BD845-PWB")
+    (title "BD845-PWB SCH")
     (date "2022-11-27")
-    (rev "1")
+    (rev "1.0.0")
     (company "BlueDot, Vincenzo Fortunato")
   )
 
@@ -1709,7 +1709,7 @@
     (property "Reference" "D201" (at 40.64 59.055 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "D_TVS" (at 40.64 61.595 90)
+    (property "Value" "SMAJ15CA" (at 40.64 61.595 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SMA" (at 38.1 59.69 0)
@@ -1723,7 +1723,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b87f26e1-1b9c-4de9-9564-59105313047d"
-          (reference "D201") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMA")
+          (reference "D201") (unit 1) (value "SMAJ15CA") (footprint "Diode_SMD:D_SMA")
         )
       )
     )
