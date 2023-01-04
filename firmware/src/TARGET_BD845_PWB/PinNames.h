@@ -154,37 +154,64 @@ typedef enum {
     STDIO_UART_RX = PA_3,
 #endif
 
-    // Generic signals namings
-    LED1        = PA_5,
-    LED2        = PA_5,
-    LED3        = PA_5,
-    LED4        = PA_5,
-    USER_BUTTON = PC_13,
-    // Standardized button names
-    BUTTON1 = USER_BUTTON,
-    SERIAL_TX   = STDIO_UART_TX,
-    SERIAL_RX   = STDIO_UART_RX,
-    USBTX       = STDIO_UART_TX,
-    USBRX       = STDIO_UART_RX,
-    I2C_SCL     = PB_8,
-    I2C_SDA     = PB_9,
-    SPI_MOSI    = PA_7,
-    SPI_MISO    = PA_6,
-    SPI_SCK     = PA_5,
-    SPI_CS      = PB_6,
-    PWM_OUT     = PC_7,
+    // Channel 1
+    BTN_CH1_S1 = PF_6,
+    BTN_CH1_S2 = PA_12,
+    BTN_CH1_S3 = PA_11,
+    BTN_CH1_S4 = PA_10,
 
-    /**** OSCILLATOR pins ****/
-    RCC_OSC32_IN = PC_14,
-    RCC_OSC32_OUT = PC_15,
-    RCC_OSC_IN = PF_0,
+    // Channel 2
+    BTN_CH2_S1 = PA_9,
+    BTN_CH2_S2 = PA_8,
+    BTN_CH2_S3 = PB_15,
+    BTN_CH2_S4 = PB_14,
+
+    // Channel 3
+    BTN_CH3_S1 = PB_13,
+    BTN_CH3_S2 = PB_12,
+    BTN_CH3_S3 = PB_11,
+    BTN_CH3_S4 = PB_10,
+
+    // Channel 4
+    BTN_CH4_S1 = PB_2,
+    BTN_CH4_S2 = PB_1,
+    BTN_CH4_S3 = PB_0,
+    BTN_CH4_S4 = PA_7,
+
+    // Channel 5
+    BTN_CH4_S1 = PA_6,
+    BTN_CH4_S2 = PA_5,
+    BTN_CH4_S3 = PA_4,
+    BTN_CH4_S4 = PA_3,
+
+    // Channel Comm
+    TEST       = PB_4,
+    FL5        = PB_5,
+    FL4        = PB_6,
+    FL3        = PB_7,
+    FL2        = PB_8,
+    FL1        = PB_9,
+    PADS_SRCLK = PC15,
+    PADS_RCLK  = PC_14,
+    PADS_SER   = PC_13,
+
+    // Lights
+    LIGHTS_SRCLK = PA_0,
+    LIGHTS_RCLK  = PA_1,
+    LIGHTS_SER   = PA_2,
+
+    // Options switches
+    SW_OPT_LIGHT    = PF7,
+    SW_OPT_LEGACY   = PB3,
+    SW_OPT_DEBOUNCE = PA15,
+
+    // OSCILLATOR pins
+    RCC_OSC_IN  = PF_0,
     RCC_OSC_OUT = PF_1,
 
-    /**** DEBUG pins ****/
+    // DEBUG pins
     SYS_SWCLK = PA_14,
     SYS_SWDIO = PA_13,
-    SYS_WKUP1 = PA_0,
-    SYS_WKUP2 = PC_13,
 
     // Not connected
     NC = (int)0xFFFFFFFF
