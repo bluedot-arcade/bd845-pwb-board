@@ -1,0 +1,25 @@
+{
+    "BD845-PWB": {
+        "inherits": ["FAMILY_STM32"],
+        "supported_form_factors": ["ARDUINO", "MORPHO"],
+        "core": "Cortex-M0",
+        "extra_labels_add": ["STM32F0", "STM32F030C8"],
+        "config": {
+            "clock_source": {
+                "help": "Mask value : USE_PLL_HSE_XTAL | USE_PLL_HSI",
+                "value": "USE_PLL_HSE_XTAL|USE_PLL_HSI",
+                "macro_name": "CLOCK_SOURCE"
+            }
+        },
+        "detect_code": ["1234"],
+        "macros_add": [
+            "CMSIS_VECTAB_VIRTUAL",
+            "CMSIS_VECTAB_VIRTUAL_HEADER_FILE=\"cmsis_nvic.h\""
+        ],
+        "device_has_add": ["CRC"],
+        "device_has_remove": ["LPTICKER"],
+        "default_lib": "small",
+        "release_versions": ["2", "5"],
+        "device_name": "STM32F030C8"
+    }
+}
