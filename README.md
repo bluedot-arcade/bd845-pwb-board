@@ -3,6 +3,8 @@
 [<img src="https://img.shields.io/badge/license-CERN OHL S 2-green" />]()
 [<img src="https://img.shields.io/badge/version-1.0.0-green" />]()
 
+![BD845-PWB Front](images/bd845-pwb-front.png?raw=true)
+
 BD845-PWB is a clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.
 
 [Explore the docs](https://docs.bluedotarcade.com/boards/bd845-pwb)
