@@ -1,6 +1,6 @@
 # BD845-PWB IO Board
 
-[<img src="https://img.shields.io/badge/license-CERN OHL 2-green" />]()
+[<img src="https://img.shields.io/badge/license-CERN OHL S 2-green" />]()
 [<img src="https://img.shields.io/badge/version-1.0.0-green" />]()
 
 BD845-PWB is a clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.
@@ -50,7 +50,7 @@ Original Konami GN845-PWB:
 
 ## License
 
-Distributed under the CERN OHL 2 License. See [LICENSE.txt](/LICENSE.txt) for more information.
+Distributed under the CERN OHL S 2 License. See [LICENSE.txt](/LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
