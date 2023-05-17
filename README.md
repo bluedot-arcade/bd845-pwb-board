@@ -11,7 +11,7 @@ BD845-PWB is a clone of the original Konami GN845-PWB(B) Stage I/O board for DDR
 
 ## About the project
 
-The goal of the project is to replicate the original Konami GN845-PWB(B) Stage I/O board for future-proofing DDR cabinets and will work as a drop in replacement.
+The goal of the project is to replicate the original Konami GN845-PWB(B) Stage I/O board by designing a drop in replacement board for future-proofing DDR cabinets.
 
 It emulates the original DDR Stage I/O communication protocol boot sequence allowing to run the game without an I/O Check Bypass. Other protocol features are currently not supported.
 
