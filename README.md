@@ -1,13 +1,17 @@
-# BD845-PWB IO Board
+<p align="right">
+    <a href="/LICENSE.txt"><img src="https://img.shields.io/badge/license-CERN OHL S 2-green" /></a> <a href=""><img src="https://img.shields.io/badge/version-1.0.0-green" /></a> 
+</p>
+<br><br>
+<p align="center">
+    <h1 align="center">BD845-PWB IO Board</h1>
+    <p align="center">A clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.</p>
+    <p align="center"><strong><a href="https://docs.bluedotarcade.com/boards/bd845-pwb">Explore the docs!</a></strong></p>
+    <br><br>
+</p>
 
-[<img src="https://img.shields.io/badge/license-CERN OHL S 2-green" />]()
-[<img src="https://img.shields.io/badge/version-1.0.0-green" />]()
+<p align="center">A render of the board from the front.</p>
 
 ![BD845-PWB Front](images/bd845-pwb-front.png?raw=true)
-
-BD845-PWB is a clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.
-
-[Explore the docs](https://docs.bluedotarcade.com/boards/bd845-pwb)
 
 ## About the project
 
@@ -20,6 +24,13 @@ It also provides additional features such as debouncing and a Light-On-Press mod
 The board can be re-programmed with a custom/updated firmware. The latest version of the firmware can be found [here](https://github.com/bluedot-arcade/bd845-pwb-firmware).
 
 For more information read the [docs](https://docs.bluedotarcade.com/boards/bd845-pwb).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Status
+
+The project is still in development. Don't expect all things to work just yet.
+The DDR Stage IO communication protocol has not been yet implemented.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
