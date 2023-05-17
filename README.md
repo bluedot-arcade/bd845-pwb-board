@@ -64,15 +64,22 @@ Original Konami GN845-PWB:
 
 ## License
 
-Distributed under the CERN OHL S 2 License. See [LICENSE.txt](/LICENSE.txt) for more information.
+Distributed under the CERN OHL S 2 License. See [LICENSE.txt] for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
-* [NaokiS](http://nsaito.co.uk/) - for providing valuable information about the original DDR stage IO communication protocol.
-* [Marco Ruggiero](https://www.instagram.com/ruggiero.design/) - for designing the BlueDot logo and beta-testing the board on its own cabinet.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - the Kicad plugin used to generate the interactive BOM.
-* [Kicad](https://www.kicad.org/) - for allowing me to design this board for free!
+* [NaokiS] - for providing valuable information about the original DDR stage IO communication protocol.
+* [Marco Ruggiero] - for designing the BlueDot logo and beta-testing the board on its own cabinet.
+* [InteractiveHtmlBom] - the Kicad plugin used to generate the interactive BOM.
+* [Kicad] - for allowing me to design this board for free!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[NaokiS]: http://nsaito.co.uk/
+[Marco Ruggiero]: https://www.instagram.com/ruggiero.design/
+[InteractiveHtmlBom]: https://github.com/openscopeproject/InteractiveHtmlBom
+[Kicad]: https://www.kicad.org/
+[LICENSE.txt]: /LICENSE.txt
