@@ -6,7 +6,8 @@
 <p align="center">
     <h1 align="center">BD845-PWB IO Board</h1>
     <p align="center">A clone of the original Konami GN845-PWB(B) Stage I/O board for DDR machines.</p>
-    <p align="center"><strong><a href="https://docs.bluedotarcade.com/boards/bd845-pwb">Explore the docs!</a></strong></p>
+    <p align="center"><strong><a href="https://github.com/bluedot-arcade/bd845-pwb-firmware">Go to firmware repository</a></strong></p>
+    <p align="center"><strong><a href="https://docs.bluedotarcade.com/boards/bd845-pwb">Explore the docs</a></strong></p>
     <br><br>
 </p>
 
