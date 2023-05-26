@@ -29,13 +29,6 @@ For more information read the [docs](https://docs.bluedotarcade.com/boards/bd845
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Status
-
-The project is still in development. Don't expect all things to work just yet.
-The DDR Stage IO communication protocol has not been yet implemented.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Project structure
 
 * [/fab/](/fab/) - the files required for fabbrication that includes gerbers, drills and assembly files.
