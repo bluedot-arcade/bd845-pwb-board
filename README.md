@@ -41,9 +41,10 @@ The DDR Stage IO communication protocol has not been yet implemented.
 * [/fab/](/fab/) - the files required for fabbrication that includes gerbers, drills and assembly files.
 * [/kicad/](/kicad/) -  the kicad project files.
 * [/images/](/images/) - images and renders.
-* [/sch_bd845-pwb-v1.0.0.pdf](/sch_bd845-pwb_v1.0.0.pdf) - the board's schematic.
-* [/bom_bd845-pwb-v1.0.0.csv](/bom_bd845-pwb_v1.0.0.csv) - the board's bill of materials.
-* [/ibom_bd845-pwb-v1.0.0.html](/ibom_bd845-pwb_v1.0.0.html) - an interactive bill of materials very useful for manual assembly.
+* [/sch_bd845-pwb_v1.0.0.pdf](/sch_bd845-pwb_v1.0.0.pdf) - the board's schematic.
+* [/draw_bd845-pwb_v1.0.0.pdf](/draw_bd845-pwb_v1.0.0.pdf) - the board's mechanical drawings.
+* [/bom_bd845-pwb_v1.0.0.csv](/bom_bd845-pwb_v1.0.0.csv) - the board's bill of materials.
+* [/ibom_bd845-pwb_v1.0.0.html](/ibom_bd845-pwb_v1.0.0.html) - an interactive bill of materials very useful for manual assembly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,4 +84,4 @@ Distributed under the CERN OHL S 2 License. See [LICENSE.txt] for more informati
 [Marco Ruggiero]: https://www.instagram.com/ruggiero.design/
 [InteractiveHtmlBom]: https://github.com/openscopeproject/InteractiveHtmlBom
 [Kicad]: https://www.kicad.org/
-[LICENSE.txt]: /LICENSE.txt
+[LICENSE.txt]: /LICENSE.txtschematic
