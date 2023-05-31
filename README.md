@@ -67,6 +67,7 @@ Distributed under the CERN OHL S 2 License. See [LICENSE.txt] for more informati
 
 * [NaokiS] - for providing valuable information about the original DDR stage IO communication protocol.
 * [Marco Ruggiero] - for designing the BlueDot logo and beta-testing the board on its own cabinet.
+* [MameDev] - for opensourcing the KSYS573 Boot IO check emulation which this board is based on.
 * [InteractiveHtmlBom] - the Kicad plugin used to generate the interactive BOM.
 * [Kicad] - for allowing me to design this board for free!
 
@@ -75,6 +76,7 @@ Distributed under the CERN OHL S 2 License. See [LICENSE.txt] for more informati
 
 [NaokiS]: http://nsaito.co.uk/
 [Marco Ruggiero]: https://www.instagram.com/ruggiero.design/
+[MameDev]: https://github.com/mamedev/mame/blob/master/src/mame/konami/ksys573.cpp
 [InteractiveHtmlBom]: https://github.com/openscopeproject/InteractiveHtmlBom
 [Kicad]: https://www.kicad.org/
 [LICENSE.txt]: /LICENSE.txtschematic
