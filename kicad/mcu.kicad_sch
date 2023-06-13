@@ -1,4 +1,4 @@
-(kicad_sch (version 20221110) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid 660f3098-c111-4346-8e16-ca8afdb68699)
 
@@ -1897,10 +1897,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -1925,10 +1925,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0133") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
@@ -1954,7 +1954,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C306") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C306") (unit 1)
         )
       )
     )
@@ -1980,7 +1980,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "R305") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R305") (unit 1)
         )
       )
     )
@@ -2006,7 +2006,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C301") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C301") (unit 1)
         )
       )
     )
@@ -2031,10 +2031,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -2060,7 +2060,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C303") (unit 1) (value "10p") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C303") (unit 1)
         )
       )
     )
@@ -2086,7 +2086,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "R304") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R304") (unit 1)
         )
       )
     )
@@ -2112,7 +2112,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "R301") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R301") (unit 1)
         )
       )
     )
@@ -2137,10 +2137,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -2165,7 +2165,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0137") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
@@ -2190,7 +2190,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0139") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -2215,10 +2215,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
@@ -2244,7 +2244,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C302") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C302") (unit 1)
         )
       )
     )
@@ -2274,7 +2274,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "U302") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U302") (unit 1)
         )
       )
     )
@@ -2299,10 +2299,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0134") (unit 1)
         )
       )
     )
@@ -2374,7 +2374,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "U301") (unit 1) (value "STM32F030C8Tx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
+          (reference "U301") (unit 1)
         )
       )
     )
@@ -2400,7 +2400,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C305") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C305") (unit 1)
         )
       )
     )
@@ -2428,7 +2428,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "Y301") (unit 1) (value "16Mhz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
+          (reference "Y301") (unit 1)
         )
       )
     )
@@ -2454,7 +2454,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C307") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C307") (unit 1)
         )
       )
     )
@@ -2480,7 +2480,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C308") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C308") (unit 1)
         )
       )
     )
@@ -2505,7 +2505,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0135") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -2530,10 +2530,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -2558,10 +2558,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
@@ -2586,10 +2586,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
@@ -2618,7 +2618,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "J302") (unit 1) (value "PinHeader_01x05") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+          (reference "J302") (unit 1)
         )
       )
     )
@@ -2643,7 +2643,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0131") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -2669,7 +2669,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "C304") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+          (reference "C304") (unit 1)
         )
       )
     )
@@ -2695,7 +2695,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "R306") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R306") (unit 1)
         )
       )
     )
@@ -2746,7 +2746,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "J301") (unit 1) (value "TC2030-MCP-NL") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
+          (reference "J301") (unit 1)
         )
       )
     )
@@ -2772,7 +2772,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "R302") (unit 1) (value "NC") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R302") (unit 1)
         )
       )
     )
@@ -2797,7 +2797,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "#PWR0132") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -2823,7 +2823,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1c1d22e9-ff5a-4d59-8d81-13b47946e5d6"
-          (reference "R303") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R303") (unit 1)
         )
       )
     )
