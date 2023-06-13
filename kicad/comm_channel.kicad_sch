@@ -1,4 +1,4 @@
-(kicad_sch (version 20221110) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid eb202947-636a-4a7a-8e70-1d7500c746bc)
 
@@ -1562,7 +1562,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0161") (unit 1) (value "GND1") (footprint "")
+          (reference "#PWR0161") (unit 1)
         )
       )
     )
@@ -1587,10 +1587,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0148") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -1618,7 +1618,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U404") (unit 1) (value "EL357N(C)(TA)-G") (footprint "Package_SO:SO-4_4.4x3.6mm_P2.54mm")
+          (reference "U404") (unit 1)
         )
       )
     )
@@ -1644,7 +1644,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R401") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R401") (unit 1)
         )
       )
     )
@@ -1670,7 +1670,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R402") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R402") (unit 1)
         )
       )
     )
@@ -1696,7 +1696,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R405") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R405") (unit 1)
         )
       )
     )
@@ -1722,7 +1722,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R403") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R403") (unit 1)
         )
       )
     )
@@ -1759,7 +1759,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "J401") (unit 1) (value "JST_B13P_SHF_1AA") (footprint "ProjectLibrary:JST_NH_B13P-SHF-1AA_1x13_P2.50mm_Vertical")
+          (reference "J401") (unit 1)
         )
       )
     )
@@ -1785,7 +1785,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R404") (unit 1) (value "330R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R404") (unit 1)
         )
       )
     )
@@ -1811,25 +1811,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R406") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R406") (unit 1)
         )
       )
     )
@@ -1857,7 +1857,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U405") (unit 1) (value "EL357N(C)(TA)-G") (footprint "Package_SO:SO-4_4.4x3.6mm_P2.54mm")
+          (reference "U405") (unit 1)
         )
       )
     )
@@ -1882,10 +1882,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0149") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0149") (unit 1)
         )
       )
     )
@@ -1915,25 +1915,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U407") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U407") (unit 1)
         )
       )
     )
@@ -1959,25 +1959,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R408") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R408") (unit 1)
         )
       )
     )
@@ -2002,25 +2002,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0158") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0158") (unit 1)
         )
       )
     )
@@ -2045,10 +2045,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0160") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0160") (unit 1)
         )
       )
     )
@@ -2074,7 +2074,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R416") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R416") (unit 1)
         )
       )
     )
@@ -2099,7 +2099,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0156") (unit 1) (value "GND1") (footprint "")
+          (reference "#PWR0156") (unit 1)
         )
       )
     )
@@ -2124,7 +2124,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0150") (unit 1) (value "GND1") (footprint "")
+          (reference "#PWR0150") (unit 1)
         )
       )
     )
@@ -2149,7 +2149,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0147") (unit 1) (value "GND1") (footprint "")
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -2177,7 +2177,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U401") (unit 1) (value "EL357N(C)(TA)-G") (footprint "Package_SO:SO-4_4.4x3.6mm_P2.54mm")
+          (reference "U401") (unit 1)
         )
       )
     )
@@ -2202,7 +2202,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0159") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0159") (unit 1)
         )
       )
     )
@@ -2228,25 +2228,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R411") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R411") (unit 1)
         )
       )
     )
@@ -2272,7 +2272,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R415") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R415") (unit 1)
         )
       )
     )
@@ -2300,7 +2300,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U403") (unit 1) (value "EL357N(C)(TA)-G") (footprint "Package_SO:SO-4_4.4x3.6mm_P2.54mm")
+          (reference "U403") (unit 1)
         )
       )
     )
@@ -2330,25 +2330,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "U?") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U406") (unit 1) (value "SRV05-4") (footprint "Package_TO_SOT_SMD:SOT-23-6")
+          (reference "U406") (unit 1)
         )
       )
     )
@@ -2373,10 +2373,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0153") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0153") (unit 1)
         )
       )
     )
@@ -2404,7 +2404,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "U402") (unit 1) (value "EL357N(C)(TA)-G") (footprint "Package_SO:SO-4_4.4x3.6mm_P2.54mm")
+          (reference "U402") (unit 1)
         )
       )
     )
@@ -2429,7 +2429,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0154") (unit 1) (value "GND1") (footprint "")
+          (reference "#PWR0154") (unit 1)
         )
       )
     )
@@ -2455,7 +2455,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R417") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R417") (unit 1)
         )
       )
     )
@@ -2480,7 +2480,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0152") (unit 1) (value "GND1") (footprint "")
+          (reference "#PWR0152") (unit 1)
         )
       )
     )
@@ -2505,10 +2505,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0155") (unit 1)
         )
       )
     )
@@ -2534,7 +2534,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R412") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R412") (unit 1)
         )
       )
     )
@@ -2560,7 +2560,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R413") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R413") (unit 1)
         )
       )
     )
@@ -2586,25 +2586,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R407") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R407") (unit 1)
         )
       )
     )
@@ -2629,25 +2629,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0157") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0157") (unit 1)
         )
       )
     )
@@ -2672,25 +2672,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0145") (unit 1)
         )
       )
     )
@@ -2716,25 +2716,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R409") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R409") (unit 1)
         )
       )
     )
@@ -2760,25 +2760,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "R?") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R410") (unit 1) (value "150R") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R410") (unit 1)
         )
       )
     )
@@ -2804,7 +2804,7 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "R414") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+          (reference "R414") (unit 1)
         )
       )
     )
@@ -2829,25 +2829,25 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/ee25ad23-16ad-410b-9d51-44517f0b44fd"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/015ef0e1-80e9-4654-9c4e-55b9441615f7"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/37707cb0-7f1b-48ab-92b0-b85156a41fb4"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/b2b651a3-bec8-464c-9fa6-949dcdfcb350"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/79086545-f042-4543-848f-41bdcf514c29"
-          (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0146") (unit 1) (value "+3V3") (footprint "")
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -2872,10 +2872,10 @@
     (instances
       (project "bd845-pwb"
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2"
-          (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR?") (unit 1)
         )
         (path "/c0443f53-6229-4858-b0f1-180b8ed8e6c2/1310dd01-db41-4a27-80b2-7733c2587cdb"
-          (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
+          (reference "#PWR0151") (unit 1)
         )
       )
     )
