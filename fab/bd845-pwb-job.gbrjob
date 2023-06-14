@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.99.0-4444-ge62463b52b)"
+      "Version": "7.0.5"
     },
-    "CreationDate": "2022-12-13T19:15:09+01:00"
+    "CreationDate": "2023-06-14T02:28:05+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "bd845-pwb",
       "GUID": "62643834-352d-4707-9762-2e6b69636164",
-      "Revision": "rev?"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 185.1,
@@ -33,8 +33,8 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.09,
-      "PadToTrack": 0.09,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "TrackToRegion": 0.305,
       "RegionToRegion": 0.305

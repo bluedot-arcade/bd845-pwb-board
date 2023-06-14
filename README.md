@@ -1,6 +1,6 @@
 <p align="right">
     <a name="readme-top"></a>
-    <a href="/LICENSE.txt"><img src="https://img.shields.io/badge/license-CERN OHL S 2-green" /></a> <a href=""><img src="https://img.shields.io/badge/version-1.0.0-green" /></a> 
+    <a href="/LICENSE.txt"><img src="https://img.shields.io/badge/license-CERN OHL S 2-green" /></a> <a href=""><img src="https://img.shields.io/badge/version-1.1.0-green" /></a> 
 </p>
 <br><br>
 <p align="center">
@@ -34,10 +34,10 @@ For more information read the [docs](https://docs.bluedotarcade.com/boards/bd845
 * [/fab/](/fab/) - the files required for fabbrication that includes gerbers, drills and assembly files.
 * [/kicad/](/kicad/) -  the kicad project files.
 * [/images/](/images/) - images and renders.
-* [/sch_bd845-pwb_v1.0.0.pdf](/sch_bd845-pwb_v1.0.0.pdf) - the board's schematic.
-* [/draw_bd845-pwb_v1.0.0.pdf](/draw_bd845-pwb_v1.0.0.pdf) - the board's mechanical drawings.
-* [/bom_bd845-pwb_v1.0.0.csv](/bom_bd845-pwb_v1.0.0.csv) - the board's bill of materials.
-* [/ibom_bd845-pwb_v1.0.0.html](/ibom_bd845-pwb_v1.0.0.html) - an interactive bill of materials very useful for manual assembly.
+* [/sch_bd845-pwb.pdf](/sch_bd845-pwb.pdf) - the board's schematic.
+* [/draw_bd845-pwb.pdf](/draw_bd845-pwb.pdf) - the board's mechanical drawings.
+* [/bom_bd845-pwb.csv](/bom_bd845-pwb.csv) - the board's bill of materials.
+* [/ibom_bd845-pwb.html](/ibom_bd845-pwb.html) - an interactive bill of materials very useful for manual assembly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
